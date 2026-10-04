@@ -1,0 +1,18 @@
+- [x] Add a main menu with direct access to all four levels.
+- [x] Build a guided, action-based tutorial for the onboarding sandbox.
+- [x] Restyle menu, messenger, dossier, admin, and outcome screens in the requested neo-brutalist retro-OS aesthetic.
+- [x] Verify desktop and mobile interactions.
+- [x] Open each case on Intel and guide the tutorial through interface, clues, message, and reply with a focused spotlight.
+- [x] Make the live AI evaluator the default and handle provider denial clearly without silently switching engines.
+- [x] Expand Intel with spoiler-safe HEX_ROOT guidance, identity context, approaches, relationship maps, and visual evidence.
+- [x] Add Bit-Credits and the social exploit toolkit.
+- [x] Add downloadable image incident reports.
+- [x] Extend Admin controls for hints, credits, and exploit history.
+- [x] Verify all remaining layers on desktop and mobile.
+
+- [x] Redesign Intel with concise ID badges, optional details, and a prominent guide.
+- [x] Verify the simplified Intel screen and tutorial on desktop and mobile.
+- [x] Add visible Back and Next actions to every tutorial step.
+- [x] Simplify identities into an expandable list, remove the level-one chart and calendar, and clean up expanded section headers.
+- [x] Replace the briefing lessons with a full-screen Recon Swipe card-sorting game.
+- [x] Simplify Chat by hiding inactive channels and combining tools and suggested moves; condense the case title bar.
